@@ -7,7 +7,7 @@
 
 ## Assignment 02
 ```bash
-    https://github.com/Sazidul0/FlutteringAround/blob/main/lib/Assignment02
+    https://github.com/Sazidul0/FlutteringAround/tree/main/lib/Assignment-02
   ```
 
 
